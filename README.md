@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**monica-28/monica-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mónica 👋
 
-Here are some ideas to get you started:
+### Digital Transformation Analyst | Data Analytics & Process Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Science graduate with professional experience in data analysis, process automation, and ERP systems integration.
+
+I enjoy understanding business challenges and developing data-driven solutions to improve operational efficiency.
+
+## Technical Skills
+
+- **Programming:** Python, SQL, R
+- **Data Analysis:** pandas, Power BI, Excel
+- **Automation:** Process improvement, data integration
+- **Other:** Machine Learning, Computer Vision
+
+## Featured Projects
+
+- Sales Forecast Accuracy Analyzer
+- Industrial Process Automation
+- Automated PCB Visual Inspection
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/monica-lazaro-jongman)
